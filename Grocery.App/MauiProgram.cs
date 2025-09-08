@@ -10,6 +10,7 @@ namespace Grocery.App
 {
     public static class MauiProgram
     {
+        // test comment
         public static MauiApp CreateMauiApp()
         {
             var builder = MauiApp.CreateBuilder();
